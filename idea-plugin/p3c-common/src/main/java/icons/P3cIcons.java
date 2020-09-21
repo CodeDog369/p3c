@@ -15,9 +15,9 @@
  */
 package icons;
 
-import javax.swing.Icon;
-
 import com.intellij.openapi.util.IconLoader;
+
+import javax.swing.*;
 
 /**
  * @author caikang
